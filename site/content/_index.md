@@ -1,6 +1,6 @@
 ---
 title: "One More Pill - Medicines Optimisation Consultancy"
-subtitle: Support sustainable farming while enjoying a cup
+subtitle: advising on medicines optimisation whilst sounding a bit like Alan Partridge
 image: /img/home-jumbotron.jpg
 blurb:
     heading: Why One More Pill?
